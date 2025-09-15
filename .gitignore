@@ -1,0 +1,7 @@
+/data
+/Lung Disease Dataset
+temp_uploads
+*.jpeg
+*.pkl
+/*.zip
+.env
